@@ -1,0 +1,18 @@
+{
+    "lang": "EN",
+    "brand": "Future Telecom Inc.",
+    "title": "Enter the Service Tag of the customer's Keenetic device",
+    "manage-title": "Customer's equipment",
+    "about": "Keenetic Remote Support Tool",
+    "search-title": "Service tag can be located on the bottom label of the device.",
+    "back-button": "Back",
+    "logout-button": "Log out",
+    "search-button": "Search",
+    "license-value": "Service tag:",
+    "model-name": "Device:",
+    "hardware-id": "Model:",
+    "manage-button": "Open",
+    "0x300": "Missing device keys. Device is not linked.",
+    "alert-license-length": "Please enter a valid Service tag.",
+    "": ""
+}

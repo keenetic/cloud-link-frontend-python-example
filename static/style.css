@@ -1,0 +1,12 @@
+#viewport.mode-index .screen-error,
+#viewport.mode-index .screen-found {
+  display: none;
+}
+#viewport.mode-error .screen-found {
+  display: none;
+}
+
+#viewport.mode-found .screen-index,
+#viewport.mode-found .screen-error {
+  display: none;
+}

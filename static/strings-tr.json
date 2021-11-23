@@ -1,0 +1,21 @@
+{
+    "lang": "TR",
+    "brand": "Future Telecom Inc.",
+    "title": "Enter the Service Tag of the customer's Keenetic device",
+    "manage-title": "Customer's equipment",
+    "about": "Keenetic Remote Support Tool",
+    "search-title": "Service tag can be located on the bottom label of the device.",
+    "back-button": "Back",
+    "logout-button": "Log out",
+    "search-button": "Search",
+    "license-value": "Service tag:",
+    "model-name": "Device:",
+    "hardware-id": "Model:",
+    "manage-button": "Open",
+    "0x143": "This device is not associated with your ISP account. Remote Support is impossible.",
+    "0x2301": "Invalid Service tag. Please double-check and re-enter.",
+    "0x2652": "The device is offline. The customer needs to re-connect to the Internet first before you can manage the device.",
+    "0x1343": "The customer's device declines remote support request. Please wait for the device to establish an association with an ISP account and try again later.",
+    "alert-license-length": "Please enter a valid Service tag.",
+    "": ""
+}
