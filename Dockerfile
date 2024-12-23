@@ -9,4 +9,4 @@ ADD . ./
 
 EXPOSE 5000/tcp
 
-CMD [ "gunicorn", "-b 0.0.0.0:5000", "main:app" ]
+CMD [ "gunicorn", "-b 0.0.0.0:5000", "-w 4", "main:app" ]
